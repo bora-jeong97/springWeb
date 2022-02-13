@@ -1,0 +1,10 @@
+java.lang.Exception: No tests found matching [{ExactMatcher:fDisplayName=testTime2], {ExactMatcher:fDisplayName=testTime2(org.zerock.persistence.TimeMapperTests)], {LeadingIdentifierMatcher:fClassName=org.zerock.persistence.TimeMapperTests,fLeadingIdentifier=testTime2]] from org.junit.internal.requests.ClassRequest@22fcf7ab
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:40)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestLoader.createFilteredTest(JUnit4TestLoader.java:83)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestLoader.createTest(JUnit4TestLoader.java:74)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestLoader.loadTests(JUnit4TestLoader.java:49)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:526)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:770)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:464)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+

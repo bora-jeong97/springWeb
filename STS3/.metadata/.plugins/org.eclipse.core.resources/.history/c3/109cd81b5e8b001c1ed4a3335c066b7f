@@ -1,0 +1,18 @@
+package org.zerock.persistence;
+
+import org.junit.Test;
+
+import lombok.extern.log4j.Log4j;
+
+@Log4j
+public class JDBCTests {
+
+	// jdbc 정상 작동 test
+	@Test
+	public void testConnection() throws Exception {
+		
+		Class clz = Class.forName("oracle.jdbc.driver.OracleDriver");
+		
+		log.info(clz);
+	}
+}
