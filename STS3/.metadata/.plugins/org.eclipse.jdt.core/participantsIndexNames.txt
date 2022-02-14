@@ -1,4 +1,8 @@
 INDEX VERSION 1.131
+C:\worksapce\STS3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2415907875.index
+\ex01\src\main\java
+C:\worksapce\STS3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3012140731.index
+\ex01\src\main\java
 C:\Users\purpl\OneDrive\πŸ≈¡ »≠∏È\workspace\STS3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3012140731.index
 \ex01\src\main\java
 C:\Users\purpl\OneDrive\πŸ≈¡ »≠∏È\workspace\STS3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3178133098.index
